@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: HelloWorld_2, Configuration: Debug Win32 ------
+1>HelloWorld_2.cpp
+1>C:\Users\thick\source\repos\HelloWorld_2\HelloWorld_2.cpp(8,38): error C2563: mismatch in formal parameter list
+1>Done building project "HelloWorld_2.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
